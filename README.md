@@ -11,23 +11,14 @@ This project implements a complete multiclass wheat seeds classification pipelin
 <div align="left">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
-
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat\&logo=numpy\&logoColor=white)](https://numpy.org/)
-
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
-
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat\&logo=matplotlib\&logoColor=white)](https://matplotlib.org/)
-
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0?style=flat)](https://seaborn.pydata.org/)
-
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-Classification-6B8E23?style=flat)](#)
-
 [![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-One_vs_All-8A6A3B?style=flat)](#)
-
 [![KNN](https://img.shields.io/badge/KNN-From_Scratch-795548?style=flat)](#)
-
 [![Dataset](https://img.shields.io/badge/Dataset-Wheat_Seeds-D4A017?style=flat)](https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci)
-
 [![License](https://img.shields.io/badge/License-MIT-4B5563?style=flat)](https://opensource.org/licenses/MIT)
 
 </div>
