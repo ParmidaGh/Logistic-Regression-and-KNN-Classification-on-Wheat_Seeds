@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f2d20,50:8a6a3b,100:a8b86b&height=220&section=header&text=Logistic%20Regression%20and%20KNN%20Classification%20on%20WheatSeeds&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f2d20,50:8a6a3b,100:a8b86b&height=220&section=header&text=Logistic%20Regression%20and%20KNN%20Classification&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
 </div>
 
